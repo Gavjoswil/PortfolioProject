@@ -163,7 +163,12 @@ hr.small {
   -o-background-size: cover;
   background-size: cover;
 }
-
+.fa-github{
+  color: black;
+}
+.fa-linkedin{
+  color: black;
+}
 
 /* About */
 
@@ -172,7 +177,7 @@ hr.small {
 }
 
 
-/* Services */
+/* Strengths */
 
 .services {
   padding: 50px 0;
@@ -181,7 +186,18 @@ hr.small {
 .service-item {
   margin-bottom: 30px;
 }
-
+.fa-html5{
+  color: black;
+}
+.fa-css3{
+  color: black;
+}
+.fa-hashtag{
+  color: black;
+}
+.fa-github{
+  color: black;
+}
 
 /* Callout */
 
