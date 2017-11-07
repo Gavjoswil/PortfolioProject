@@ -270,3 +270,9 @@ footer {
   display: none;
   padding: 15px 20px;
 }
+form{
+  background-color: #343a40;
+  }
+#formtext {
+  color: #343a40;
+}
