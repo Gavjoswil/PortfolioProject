@@ -175,11 +175,15 @@ hr.small {
 .about {
   padding: 50px 0;
 }
+.row {
+  width: 98%;
+}
 #myphoto{
   height: 400px;
   width: 400px;
   border: solid 10px #343a40;
   border-radius: 5px;
+  margin-top: 3em;
 }
 .center-block{
   display: block;
@@ -209,21 +213,6 @@ hr.small {
 .fa-github{
   color: black;
 }
-
-/* Callout */
-
-.callout {
-  display: table;
-  width: 100%;
-  height: 400px;
-  color: #fff;
-  background: url(../img/matrix.jpg) no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 
 /* Portfolio */
 
