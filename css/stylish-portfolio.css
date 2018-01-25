@@ -205,7 +205,7 @@ hr.small {
 .fa-html5{
   color: black;
 }
-.fa-css3{
+.fa-code{
   color: black;
 }
 .fa-hashtag{
@@ -265,6 +265,3 @@ form{
   background-color: #343a40;
   box-shadow: 3px 3px 15px 1px rgba(0,0,0,0.75);
   }
-#formtext {
-  color: #343a40;
-}
