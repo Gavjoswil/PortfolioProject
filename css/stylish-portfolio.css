@@ -175,8 +175,8 @@ hr.small {
 .about {
   padding: 50px 0;
 }
-.row {
-  width: 98%;
+#aboutRow {
+  width: 99%;
 }
 #myphoto{
   height: 400px;
@@ -184,6 +184,7 @@ hr.small {
   border: solid 10px #343a40;
   border-radius: 5px;
   margin-top: 3em;
+  box-shadow: 3px 3px 15px 1px rgba(0,0,0,0.75);
 }
 .center-block{
   display: block;
@@ -226,6 +227,7 @@ hr.small {
 
 .img-portfolio {
   margin: 0 auto;
+  box-shadow: 3px 3px 15px 1px rgba(0,0,0,0.75);
 }
 
 .img-portfolio:hover {
@@ -261,6 +263,7 @@ footer {
 }
 form{
   background-color: #343a40;
+  box-shadow: 3px 3px 15px 1px rgba(0,0,0,0.75);
   }
 #formtext {
   color: #343a40;
